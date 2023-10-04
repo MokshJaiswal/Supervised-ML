@@ -6,3 +6,4 @@ In this task we are going to predict the percentage of an student's marks based 
 
 # ✒Author
 Moskh Jaiswal
+*Jupyter notebook is used to perform this task.*
