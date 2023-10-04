@@ -6,10 +6,3 @@ In this task we are going to predict the percentage of an student's marks based 
 
 # Author
 Moskh Jaiswal
-
-# Importing the basic required libraries 
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-%matplotlib inline
